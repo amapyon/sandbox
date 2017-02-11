@@ -1,3 +1,2 @@
 TEST
- brAA
-  brAB
+ brA
